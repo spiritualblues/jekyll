@@ -61,7 +61,6 @@ plugins:
 
 author:
   name   : "spiritual blues"
-  avatar : "/assets/images/bio-photo.jpg"
   bio    : "perpetually rooting for the underdog"
   links:
     - label: "Website"
