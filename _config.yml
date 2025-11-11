@@ -65,16 +65,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://spi.blue"
+      url: "https://desk.spi.blue"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/spiritualblues"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/spiritualblues"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#    - label: "Instagram"
+#     icon: "fab fa-fw fa-instagram"
+#    url: "https://instagram.com/"
 
 footer:
   links:
@@ -84,9 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/spiritualblues"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/"
 
 defaults:
   # _posts
