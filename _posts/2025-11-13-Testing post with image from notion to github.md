@@ -8,4 +8,4 @@ comments: false
 ---
 Test add to jekyll
 
-![stock-vector-business-ambition-and-success-vector-concept-with-businessman-digging-underground-symbol-of-1897099780.jpg](/asset/images/stock-vector-business-ambition-and-success-vector-concept-with-businessman-digging-underground-symbol-of-1897099780.jpg)
+![ALT](/asset/images/notion.jpg)
