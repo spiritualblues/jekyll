@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : "spi.blue/blog"
   bio    : "perpetually rooting for the underdog"
   links:
     - label: "Website"
